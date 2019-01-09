@@ -1,0 +1,27 @@
+---
+title: Brouillon Net
+timezone: 
+collections:
+  posts:
+    title: Posts
+    output: true
+  steps:
+    title: Steps
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: steps
+  values:
+    title: 
+    date: 2018-12-22 09:37:27
+markdown: kramdown
+highlighter: rouge
+lsi: false
+description: 
+baseurl: "/timeline"
+url: https://ss4ws.github.io/
+color: "#f2f2f2"
