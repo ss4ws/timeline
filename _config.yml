@@ -22,6 +22,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 description: 
+repository: ss4ws/timeline
 baseurl: "/timeline"
 url: https://ss4ws.github.io/
 color: "#f2f2f2"
