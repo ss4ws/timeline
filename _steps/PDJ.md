@@ -1,8 +1,24 @@
 ---
 title: Philippe De Jonckheere - desordre.net
-date: 2001-01-01
-enddate: 
+date: 2003-01-01 
+enddate: present
 ---
+
+_Désordre_ est le site principal de Philippe De Jonckheere.
+
+La page ci-dessous montre l'historique du site tel qu'il a été capturé et conservé par la Wayback Machine. À partir du bandeau, en haut de la page, on peut voir les années qu'il est en fonction. En cliquant les dates disponibles, retrouve le site dans l'état où il était à ce moment précis.[^1]
+
+[^1]: Dans la mesure du possible, toutes mes références aux pages du _Désordre_ seront prélevées dans les pages archivées par la [_Wayback Machine_](https://web.archive.org/). 
+
+<iframe style='width:100%; height: 663px;' src='https://web.archive.org/web/20030601000000*/http://www.desordre.net'></iframe>
+
+- - - 
+Cette page-ci montre l'arborescence du site de _Désordre_, c'est-à-dire sa croissance dans le temps. À partir de son URL de base: `http://www.desordre.net`, au centre de l'image, on peut explorer sa structure. Il ne fait déjà aucune surprise que _Désordre_ et le site le plus élaboré des trois sites en questio ici. 
+
+<iframe style='width:100%; height: 663px;' src='https://web.archive.org/web/sitemap/http://www.desordre.net'></iframe>
+
+- - -
+
 
 ![La première page d'accueil du Désordre]()  
 
